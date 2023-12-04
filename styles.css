@@ -1,0 +1,433 @@
+*{
+
+    margin:10px;
+    padding: 10px;
+    box-sixing: border-box;  
+  }
+  
+  html{
+  font-size: 10px;
+  }
+  
+  body{
+
+    background-color: rgb(255, 245, 252);
+  
+  }
+  
+
+  .weeklylist{
+    text-decoration: none !important;
+    font-size: 20px;
+    color: rgb(176, 208, 211);
+    font-family: myFirstFont;
+  }
+
+  a:visited{
+    text-decoration: none;
+    color: pink;
+    background-color: transparent;
+  }
+
+  a:link {
+    color: rgb(119, 197, 218); 
+    background-color: transparent; 
+    text-decoration: none;
+  }
+
+  path {
+    fill: transparent;
+
+  }
+
+  @font-face {
+    font-family: myFirstFont;
+    src: url(Mumsies.ttf);
+}
+  
+  
+
+  .introtext {
+
+    font-size: 70px;
+    color: rgb(176, 208, 211);
+    font-family: myFirstFont;
+
+  }
+
+  .images{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+
+
+  }
+
+  .weeklya{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+
+
+  
+  .paragraph-main{
+  
+      color: palevioletred;
+      font-weight:600;
+      font-size: 30px;
+
+  }
+
+#paragraph-2{
+
+    color:deeppink;
+    font-weight:600;
+    font-size: 20px;
+
+
+  }
+
+#paragraph-3{
+
+        color:rgb(6, 75, 105);
+        font-weight:600;
+        font-size: 20px;
+
+}
+
+
+#paragraph-4{
+
+  color:rgb(71, 21, 185);
+  font-weight:600;
+  font-size: 20px;
+
+}
+
+.paragraphTwo{
+
+    font-family:"Fuggles.ttf", Times, serif;
+
+
+    color:rgb(38, 79, 181);
+
+    font-size: 20px;
+
+
+  }
+
+  .paragraphOne{
+
+    margin: 0px auto;
+
+    font-family:"Fuggles.ttf", Times, serif;
+
+    color:rgb(181, 38, 71);
+
+    font-size: 20px;
+
+
+  }
+
+  .paragraph-1{
+    
+
+    margin-top: 100px;
+
+    text-align:center;
+
+    font-size: 50px;
+
+    font-family: 'Lobster', cursive;
+
+    border-style: dotted;
+
+    color: rgb(135, 70, 208);
+
+    
+}
+
+
+.paragraph-15{
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+
+
+}
+
+.paragraph-2{
+
+    margin-left: 200px;
+
+    margin-top: 0px;
+
+    margin-right: 200px;
+
+    text-align:center;
+
+    font-size: 30px;
+
+    color: rgb(9, 132, 169);
+
+    font-family: 'Tajawal', sans-serif;
+
+    margin-bottom: 500px;
+
+
+    
+}
+
+.text{
+     
+    font-family: 'Poiret One', cursive;
+    color: rgb(209, 125, 28);
+    font-size: 20px; /*18px*/
+
+
+}
+
+.intro-page{
+
+    font-size: 30px; /*18px*/
+
+    text-align:center;
+
+    color:rgb(181, 38, 71);
+
+    background-color:rgb(210, 186, 233);
+
+  }
+
+  .title-one{
+
+    
+
+    font-size: 25px; /*18px*/
+
+
+    color: rgb(97, 19, 222);
+
+  }
+
+  .title-two{
+
+    text-align:center;
+
+    font-size: 30px; /*18px*/
+    color: rgb(237, 60, 125);
+    text-shadow: 2px 2px rgb(183, 72, 193);
+    font-family: 'Yellowtail', cursive;
+  }
+
+  .title-three{
+
+    font-size: 15px; /*18px*/
+
+    font-family: 'Alata', sans-serif;
+
+    color: rgb(201, 47, 47);
+
+  }
+  
+  .poem-one{
+
+    font-size: 25px; /*18px*/
+
+  
+      color: rgb(30, 157, 96);
+  }
+
+  .poem-two{
+
+    text-align:center;
+
+    font-size: 25px; /*18px*/
+    color: rgb(116, 2, 95);
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-family: 'Yellowtail', cursive;
+}
+
+.poem-three{
+
+    color:rgb(73, 136, 204);
+
+    font-family: 'Alata', sans-serif;
+}
+
+.poem-four{
+
+    color:rgb(11, 71, 47);
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 50px; /*18px*/
+
+    text-align:center;
+
+
+
+}
+
+.poem-five{
+
+    text-align:center;
+
+
+    font-size: 50px; /*18px*/
+
+
+    color: rgb(70, 216, 21);
+    font-family: 'Poiret One', cursive;
+
+    
+
+}
+
+.title-five{
+
+    text-align:center;
+
+
+    font-size: 50px; /*18px*/
+
+
+    font-family: 'Poiret One', cursive;
+
+}
+
+.goodbye{
+
+    text-align:center;
+
+    font-size: 50px; /*18px*/
+
+    color: rgb(135, 70, 208);
+
+}
+
+
+
+.title-four{
+
+    text-align:right;
+
+
+    color:rgb(31, 6, 95);
+
+    font-size: 30px; /*18px*/
+
+
+    font-family: 'Chakra Petch', sans-serif;
+
+}
+
+.contactinfo{
+
+    color: rgb(176, 208, 211);
+    font-family: myFirstFont;
+    font-size: 50px;
+
+}
+
+.portfoliolist{
+    color: rgb(176, 208, 211);
+    font-family: myFirstFont;
+    font-size: 20px;
+    text-decoration: none;
+
+
+
+}
+
+.aboutme{
+
+    color: rgb(176, 208, 211);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-decoration:none;
+}
+
+.myBio{
+
+    color: rgb(176, 208, 211);
+    font-family: myFirstFont;
+    font-size: 15px;
+}
+
+.text{
+    font-family:fantasy;
+    font-size: 7px; /*18px*/
+    color: rgb(100, 0, 100);
+}
+
+.exercise3
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(176, 208, 211);
+    font-family: myFirstFont;
+    font-size: 55px;
+}
+
+.charcoal-series{
+    color: rgb(176, 208, 211);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+
+.daisy{
+
+    color: rgb(176, 208, 211);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+
+.posthuman{
+
+    color: rgb(176, 208, 211);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+
+.time{
+
+    color: rgb(176, 208, 211);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+
+}
+
+.zoom-img {
+  width: 200px;
+  height:auto;
+  overflow: hidden; /*  potentially remove */
+  transition: all .3s ease-in-out;
+}
+
+.zoom-img  img {
+  width: 100%;
+  height: 100%;
+  transition: all .3s ease-in-out;
+}
+
+.zoom-img:hover   {
+  transform: scale(1.2);
+} 
+
+.rightimage{
+
+  float: right;
+
+}
+
+
+.rightimage2{
+
+  float: right;
+
+}

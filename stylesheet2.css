@@ -1,0 +1,41 @@
+*{
+
+    margin:10px;
+    padding: 10px;
+    box-sixing: border-box;  
+  }
+  
+  html{
+  font-size: 10px;
+  }
+  
+  body{
+  
+      font-size: 20px; /*18px*/
+  }
+
+
+  a:visited{
+    text-decoration: none;
+    color: pink;
+    background-color: transparent;
+  }
+
+  a:link {
+    color: rgb(119, 197, 218); 
+    background-color: transparent; 
+    text-decoration: none;
+  }
+
+
+  .paragraphOne{
+
+    color:rgb(7, 177, 255);
+
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+    color:rgb(7, 177, 255);
+
+  }
+
